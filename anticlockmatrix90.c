@@ -1,4 +1,5 @@
 #include<stdio.h>
+// added
 int main()
 {
 	int a[10][10],i,j,k,m,n;
